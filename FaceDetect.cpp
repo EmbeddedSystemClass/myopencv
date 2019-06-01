@@ -1,4 +1,4 @@
-/** @mainpage qwavecv - None
+/** @mainpage myopencv - None
  *
  * @author Supawat A <asupawat@gmail.com>
  * @version 1.0.0
