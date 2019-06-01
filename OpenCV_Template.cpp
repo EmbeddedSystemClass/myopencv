@@ -1,6 +1,6 @@
 /** @mainpage myopencv - None
  *
- * @author Supawat A <supawat@gmail.com>
+ * @author Supawat A <asupawat@gmail.com>
  * @version 1.0.1
 **/
 
